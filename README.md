@@ -1,5 +1,5 @@
-- 'Prototype 1' is the project directory.
-- 'Race Against Time' is the built project:
+- [Prototype 1](Prototype 1) is the project directory.
+- [Race Against Time](Race Against Time) is the built project:
   - Run 'Race Against Time.exe' to start the game.
 
 ![image](https://github.com/user-attachments/assets/805c3095-264c-43be-b2b8-698816e4ce9f)
